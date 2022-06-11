@@ -1,0 +1,50 @@
+
+.container{
+	text-align: center;
+	margin-top: 250px;
+}
+
+input{
+	font-size: 40px;
+	width: 448px;
+	height: 90px;
+	background-color: whitesmoke;
+	border:none;
+	text-align: right;
+}
+.btn{
+	text-align: center;
+}
+
+button{
+	font-size: 25px;
+	background-color: gainsboro;
+	width: 110px;
+	height: 60px;
+	margin: 1px;
+	border:none;
+}
+
+button:hover{
+	background-color: snow; 
+}
+
+p{
+	 /*background-color: gainsboro ; */ 
+	 font-family: monaco;
+	 font-weight: 300;
+	 position:absolute;
+	 left:542px;
+	 top:184px;
+	 font-size: 30px;
+	 font-style: italic;
+	 background-color: gainsboro;
+	 
+	}
+
+body{
+	background-color: mistyrose;
+}
+	 
+
+	 
